@@ -3,3 +3,4 @@ This is a project that will continue to be updated(maybe🙄), hoping to build m
 |Date|Schedule|
 |----- | ------ |
 |2022.12.27|open dragon book🐉.|
+|2022.12.28|finish reading Chapter 1 Introduction🥝.|
